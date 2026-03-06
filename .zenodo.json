@@ -1,0 +1,33 @@
+{
+  "title": "INGV pygeoapi processing platform",
+  "upload_type": "software",
+  "description": "Software platform integrating pygeoapi process plugins and an external execution service to expose and run scientific processing codes via OGC API - Processes.",
+  "creators": [
+    {
+      "name": "Martinelli, Francesco",
+      "affiliation": "Istituto Nazionale di Geofisica e Vulcanologia (INGV)"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "pygeoapi",
+    "OGC API - Processes",
+    "scientific workflows",
+    "geospatial processing",
+    "processing services"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/francescoingv/ingv-pygeoapi-process-plugins",
+      "scheme": "url"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/francescoingv/generic-processor-provider",
+      "scheme": "url"
+    }
+  ]
+}
+
