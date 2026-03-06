@@ -20,13 +20,13 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/francescoingv/ingv-pygeoapi-process-plugins",
-      "scheme": "url"
+      "identifier": "10.5281/zenodo.18892819",
+      "scheme": "doi"
     },
     {
       "relation": "isSupplementTo",
-      "identifier": "https://github.com/francescoingv/generic-processor-provider",
-      "scheme": "url"
+      "identifier": "10.5281/zenodo.18892842",
+      "scheme": "doi"
     }
   ]
 }

@@ -1,6 +1,8 @@
 
 # INGV pygeoapi processing platform
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18892848.svg)](https://doi.org/10.5281/zenodo.18892848)
+
 This repository describes the **INGV pygeoapi processing platform**, a
 software architecture designed to expose and execute scientific
 processing services through APIs compliant with the **OGC API - Processes**
@@ -138,9 +140,14 @@ Workflow description:
 
 The platform is composed of the following software repositories:
 
-- https://github.com/francescoingv/ingv-pygeoapi-process-plugins
-- https://github.com/francescoingv/generic-processor-provider
+- **INGV pygeoapi process plugins**
+  https://github.com/francescoingv/ingv-pygeoapi-process-plugins
+  DOI: https://doi.org/10.5281/zenodo.18892819
 
+- **Generic processor provider**
+  https://github.com/francescoingv/generic-processor-provider
+  DOI: https://doi.org/10.5281/zenodo.18892842
+  
 ---
 
 ## Citation
@@ -148,9 +155,8 @@ The platform is composed of the following software repositories:
 If you use this platform in scientific work, please cite it as:
 
 Martinelli, F. (2026).
-INGV pygeoapi processing platform
-
-The DOI will be added after Zenodo publication.
+*INGV pygeoapi processing platform*.
+DOI: https://doi.org/10.5281/zenodo.18892848
 
 ---
 
