@@ -98,6 +98,12 @@ This design allows:
 - flexible deployment of different processing applications
 - reuse of the same execution infrastructure for multiple codes
 
+The following processing codes are currently supported:
+
+- **pybox** – scientific processing model executed through the platform
+- **conduit** – scientific processing application executed via the execution service
+- **solwcad** – scientific processing application integrated through the platform
+
 ---
 
 ## Logical workflow
